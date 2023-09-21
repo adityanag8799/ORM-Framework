@@ -1,0 +1,8 @@
+{
+"jdbc-driver":"com.mysql.cj.jdbc.Driver",
+"connection-url":"jdbc:mysql://localhost:3306/tmdbschool",
+"username":"tmwebrockuser",
+"password":"tmwebrockuser",
+"package":"com.aditya.code",
+"jar-file":"pojo.jar"
+}
